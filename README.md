@@ -1,6 +1,6 @@
 # GitHub Api
 
-[![license mit](https://img.shields.io/github/license/Luc4sf/Portfolio-Example)](https://github.com/Luc4sf/Portfolio-Example/blob/main/LICENSE.md)
+[![license mit](https://img.shields.io/github/license/Luc4sf/GitHub-API)](https://github.com/Luc4sf/GitHub-API/blob/main/LICENSE.md)
 
 > :rocket: GitHub API made as part of the Frontend Master course from Dev Samurai.
 > This project's objective was to learn how to use an API, using GitHub REST API, because of its easy use and vast documentation.
@@ -21,4 +21,4 @@ This project does not yet have a history system
 
 ## License
 
-[MIT License](https://github.com/Luc4sf/Portfolio-Example/blob/main/LICENSE.md) © Lucas Faganello Silva
+[MIT License](https://github.com/Luc4sf/GitHub-API/blob/main/LICENSE.md) © Lucas Faganello Silva
