@@ -23,7 +23,7 @@ export default function MainPage() {
           }
           onChange={(event) => setLogin(event.target.value)}
         />
-        <Button id="btnSearch" to={`/${login}/repositories`}>
+        <Button id="btnSearch" to={`/GitHub-API/${login}/repositories`}>
           <MdSearch size={42} />
         </Button>
       </Form>

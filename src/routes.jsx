@@ -7,8 +7,8 @@ import RepositoriesPage from "./pages/RepositoriesPage";
 export function AppRoutes() {
   return (
     <Routes>
-      <Route path="/:login/repositories" element={<RepositoriesPage />} />
-      <Route path="/" element={<MainPage />} />
+      <Route path="/GitHub-API/:login/repositories" element={<RepositoriesPage />} />
+      <Route path="/GitHub-API/" element={<MainPage />} />
     </Routes>
   );
 }
